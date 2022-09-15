@@ -3,7 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+.blog{
+  margin-top: 50px;
+  margin-left: 40%;
+}
 body {
   background-image: url("./bg.png");
   background-size: cover;
